@@ -1,7 +1,8 @@
 # CMPSC445Project1
 Project 1-Identifying Root Causes of Global Temperature Change Using Multi‑Source Data Integration and Regression Feature Ranking     
-[Link Text](docs/final_report.docx)         
+[Final Report](docs/final_report.docx)         
 
+visualizations:
 [Time Series: Greenhouse Gases vs Temperature](docs/fig1_timeseries.png)    
 
 
